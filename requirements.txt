@@ -1,6 +1,5 @@
-Requirement already satisfied: transliterate in /usr/local/lib/python3.10/dist-packages (1.10.2)
-Requirement already satisfied: six>=1.1.0 in /usr/local/lib/python3.10/dist-packages (from transliterate) (1.16.0)
-Requirement already satisfied: psycopg2 in /usr/local/lib/python3.10/dist-packages (2.9.9)
-Requirement already satisfied: thefuzz in /usr/local/lib/python3.10/dist-packages (0.20.0)
-Requirement already satisfied: rapidfuzz<4.0.0,>=3.0.0 in /usr/local/lib/python3.10/dist-packages (from thefuzz) (3.6.0)
-Requirement already satisfied: python-dotenv in /usr/local/lib/python3.10/dist-packages (1.0.0)
+pandas==2.1.1
+sqlalchemy==2.0.23
+transliterate==1.10.2
+thefuzz==0.20.0
+numpy==1.26.0
